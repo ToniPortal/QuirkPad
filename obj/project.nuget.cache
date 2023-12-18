@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4g8JDNxe8fLLGVhRtj18n9CAD+V2yMjOc/6to2edDQUEXqharsS87d31IIzRnFjVgzUr1PdA7GqYIFnO5FRWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\g2rform\\Documents\\Github\\desktopnewbird\\desktopnewbird.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g2rform\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\g2rform\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

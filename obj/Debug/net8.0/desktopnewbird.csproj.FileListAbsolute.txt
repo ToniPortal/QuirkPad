@@ -1,0 +1,15 @@
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\desktopnewbird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\desktopnewbird.AssemblyInfoInputs.cache
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\desktopnewbird.AssemblyInfo.cs
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\desktopnewbird.csproj.CoreCompileInputs.cache
+C:\Users\g2rform\Documents\Github\desktopnewbird\bin\Debug\net8.0\desktopnewbird.exe
+C:\Users\g2rform\Documents\Github\desktopnewbird\bin\Debug\net8.0\desktopnewbird.deps.json
+C:\Users\g2rform\Documents\Github\desktopnewbird\bin\Debug\net8.0\desktopnewbird.runtimeconfig.json
+C:\Users\g2rform\Documents\Github\desktopnewbird\bin\Debug\net8.0\desktopnewbird.dll
+C:\Users\g2rform\Documents\Github\desktopnewbird\bin\Debug\net8.0\desktopnewbird.pdb
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\desktopnewbird.dll
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\refint\desktopnewbird.dll
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\desktopnewbird.pdb
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\desktopnewbird.genruntimeconfig.cache
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\ref\desktopnewbird.dll
+C:\Users\g2rform\Documents\Github\desktopnewbird\obj\Debug\net8.0\desktopnewbird.csproj.AssemblyReference.cache
